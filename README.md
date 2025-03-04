@@ -16,3 +16,11 @@
 📊 Volume	- Number of shares traded on the given date.
 
 ##### unfinished
+
+## Performance metrics :
+- Mean Squared Error (MSE)
+- Total Return (%)
+- Sharpe Ratio
+
+## Install Dependencies :
+pip install numpy pandas scikit-learn gym stable-baselines3 tensorflow xgboost matplotlib
